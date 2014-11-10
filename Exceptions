@@ -4,6 +4,8 @@
    the group number, and SSSS is the serial number.
    iii. returns the AAA, GG, and SSSS as a tuple if the user put in a valid SS number, otherwise it returns None.
 2. Write a procedure SS that calls the procedure above until the user puts in a valid SS#.
+3. The string that asks the user to input their SS# should be hardcoded as a variable at the beginning of the program.
+This string should be passed to the above two procedures.
 
 
 NOTES:
